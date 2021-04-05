@@ -6,7 +6,7 @@
 }
 
 header {
-    background-image: url(../imgs/header.png);
+    background-image: url(../img/header.png);
     background-size: cover;
 }
 
@@ -121,7 +121,7 @@ nav.navbar .search-container {
 
 nav.navbar form {
     padding: 5px;
-    background-color: white;
+    background-color: #ffffff;
     position: absolute;
     width: 260px;
     display: none;
@@ -339,7 +339,7 @@ h3.blog_head {
 .about-us .item {
     width: 200px;
     position: absolute;
-    color: white;
+    color: #ffffff;
     background-color: #bd8cbf;
 }
 
@@ -524,7 +524,7 @@ h3.blog_head {
 
 .agency .container>div h2 {
     position: absolute;
-    color: white;
+    color: #ffffff;
     bottom: 105px;
     left: 195px;
     font-size: 40px;
@@ -583,7 +583,7 @@ h3.blog_head {
 }
 
 .ovarlay_slide_cont p {
-    color: rgb(148, 68, 68);
+    color: #944444;
     font-weight: 300;
     margin: 0 0 30px 0;
     font-size: 21px;
@@ -600,7 +600,7 @@ h3.blog_head {
 }
 
 .contact h2 {
-    color: white;
+    color: #ffffff;
     margin-bottom: 30px;
 }
 
@@ -635,7 +635,7 @@ h3.blog_head {
     padding: 0;
     line-height: 40px;
     background-color: #ef44f8;
-    color: white;
+    color: #ffffff;
     margin: 0 auto;
     display: block;
 }
@@ -645,7 +645,7 @@ h3.blog_head {
 
 footer,
 footer a {
-    color: white;
+    color: #ffffff;
 }
 
 footer {
@@ -873,7 +873,7 @@ footer .copyright p {
 }
 
 .testimonial_blog p {
-    color: rgb(0, 0, 0);
+    color: #000000;
 }
 
 .testimonial_blog p+p {
@@ -891,12 +891,12 @@ footer .copyright p {
 }
 
 .subcribe h3 {
-    color: rgb(0, 0, 0);
+    color: #000000;
 }
 
 .subcribe p {
     margin: 0;
-    color: rgb(0, 0, 0);
+    color: #000000;
 }
 
 .subcribe form {
@@ -907,7 +907,7 @@ footer .copyright p {
 
 .subcribe form {
     height: 72px;
-    background: rgb(0, 0, 0);
+    background: #000000;
     margin-top: 20px;
     padding: 0;
     font-weight: 300;
@@ -926,7 +926,7 @@ footer .copyright p {
 
 .subcribe form button {
     background: #fa3e19;
-    color: rgb(0, 0, 0);
+    color: #000000;
     width: 255px;
     border: none;
     font-size: 20px;
@@ -935,7 +935,7 @@ footer .copyright p {
 .subcribe form button:hover,
 .subcribe form button:focus {
     background: #111;
-    color: rgb(0, 0, 0);
+    color: #000000;
 }
 
 footer .item p img {
@@ -1119,7 +1119,7 @@ footer .item h4 {
         min-height: 50px;
         line-height: 50px;
         padding: 0 40px;
-        color: rgb(46, 22, 22);
+        color: #2e1616;
         position: absolute;
         bottom: 0;
         width: 70%;
@@ -1155,7 +1155,7 @@ footer .item h4 {
     }
     .subcribe form {
         height: auto;
-        background: rgb(9, 185, 103);
+        background: #09b967;
         margin-top: 20px;
         padding: 0;
         font-weight: 300;
