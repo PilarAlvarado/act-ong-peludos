@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*--------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
@@ -1189,4 +1190,75 @@ footer .item h4 {
     .service_blog img {
         width: 100%;
     }
+=======
+body {
+    background-color: #242424;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+.menu {
+    border: 0px;
+    list-style: none;
+    float: left;
+    size: 20%;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration-line: none;
+    color: #ffffff;
+}
+
+a:hover {
+    color: #8b8b8b;
+}
+
+.centro {
+    box-sizing: content-box 80%;
+    size: 80%;
+    position: absolute;
+    text-align: left;
+    margin: 0px 90px;
+    padding: 0px;
+}
+
+.h {
+    margin: 0px 80px;
+    padding: 0px;
+}
+
+.p {
+    margin: 0px 80px;
+    padding: 0px;
+}
+
+#cuadro1 {
+    border: 30px solid #2eceff;
+    background-color: #2eceff;
+    margin: 0px;
+    padding: 0px;
+}
+
+#cuadro2 {
+    border: 30px solid #e6ff06;
+    background-color: #e6ff06;
+    margin: 0px;
+    padding: 0px;
+}
+
+#cuadro3 {
+    border: 30px solid #ffb820;
+    background-color: #ffb820;
+    margin: 0px;
+    padding: 0px;
+}
+
+#cuadro4 {
+    border: 30px solid #ff3e3e;
+    background-color: #ff3e3e;
+    margin: 0px;
+    padding: 0px;
+>>>>>>> 4859efb187f403f2f2b779ab7a87e6db4b577413
 }
